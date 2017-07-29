@@ -2,3 +2,4 @@
 *.csv
 .ipynb_checkpoints/TextClassifier-Copy1-checkpoint.ipynb
 .ipynb_checkpoints/TextClassifier-ChineseFragments-checkpoint.ipynb
+.DS_Store
